@@ -25,3 +25,5 @@
 //ou = || (pipe)operações logicas - & para operaçoes binarias resultado 0 e 1)
 //ou exclusivo para operações binárias = ^
 // ou exclusivo para operações lógicas !=
+//ou exclusivo para operações lógicas !== (extritamente diferente)
+// Not (negação) ! -> exemplo console.log(!true);
