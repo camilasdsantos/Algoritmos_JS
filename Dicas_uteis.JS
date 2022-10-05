@@ -20,3 +20,8 @@
 // o \n é um caracter especial que não aparece no console. Para ele aparecer:
 // boa como gambiarra uma bara a mais (igual ao $ a mais no automation anywhere, para o caracter nao ser lido como especial)
 // t da um tab
+
+//"E" = && para operações logicas - & para operaçoes binarias resultado 0 e 1)
+//ou = || (pipe)operações logicas - & para operaçoes binarias resultado 0 e 1)
+//ou exclusivo para operações binárias = ^
+// ou exclusivo para operações lógicas !=
