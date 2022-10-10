@@ -35,3 +35,7 @@
 // da para escrever a expressão console.log('vamos comprar a TV de 50"',trabalho1 && trabalho2) separando por vigulas
 // a virgula também concatena  e adiciona espaço;
 // outra opção é o +
+//a++
+//a--
+// negaçao devalores que não sao tipicamente true or false
+//
