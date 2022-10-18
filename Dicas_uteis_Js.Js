@@ -38,4 +38,7 @@
 //a++
 //a--
 // negaçao devalores que não sao tipicamente true or false
-//
+// shif alt F formatar código
+
+
+// if não se coloca ; senao o if age em cima do ; seguinte e nao do bloco a seguir
