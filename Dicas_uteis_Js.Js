@@ -42,3 +42,5 @@
 
 
 // if não se coloca ; senao o if age em cima do ; seguinte e nao do bloco a seguir
+// if, while, for ->>> retorna valores verdadeiros (ou falsos)
+//switch retorna outros valores que não são nem verdadeiro e nem falso.
