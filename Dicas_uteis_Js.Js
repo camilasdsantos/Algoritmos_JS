@@ -44,3 +44,12 @@
 // if não se coloca ; senao o if age em cima do ; seguinte e nao do bloco a seguir
 // if, while, for ->>> retorna valores verdadeiros (ou falsos)
 //switch retorna outros valores que não são nem verdadeiro e nem falso.
+//No if e else você consegue definir um intervalo, já no switch não, tem que se o "case" exato
+
+// Duplicar um código : seleciona o trecho e digita :ALT + SHIFT + (setinha pra baixo)
+// o break ele termina o laço for.
+// o continue não sai do laço, ele vai para a proxima repetição
+
+//Return: quando o codigo chega na palavra return, ele sai do metodo e não executa nada que venha depois
+
+//Para comparar 3 valores ou mais em uma função (funções so utilizam dois valores por vez) é só repetir a função
