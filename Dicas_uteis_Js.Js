@@ -53,3 +53,10 @@
 //Return: quando o codigo chega na palavra return, ele sai do metodo e não executa nada que venha depois
 
 //Para comparar 3 valores ou mais em uma função (funções so utilizam dois valores por vez) é só repetir a função
+
+// Você pode colocar função dentro de uma variavel em JavaScript (nem toda linguagem apresenta isso)
+
+//function anonima = função sem nome 
+// uma função sem nome/ anonima pode ser armazenada numa variavel
+//a função anonima só pode ser criada (sem gerar erro), sendo atribuida por uma variavel
+//outra opção é variavel receber funcao como valor atribuido
