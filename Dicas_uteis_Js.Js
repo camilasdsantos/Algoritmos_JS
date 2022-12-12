@@ -60,3 +60,7 @@
 // uma função sem nome/ anonima pode ser armazenada numa variavel
 //a função anonima só pode ser criada (sem gerar erro), sendo atribuida por uma variavel
 //outra opção é variavel receber funcao como valor atribuido
+
+// qualquer parÂmetro a mais é ignorado!
+//podemos passar mais ou menos parametros do que foi exigido
+
