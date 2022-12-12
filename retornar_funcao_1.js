@@ -1,3 +1,4 @@
+//função retornando função isso abre possibilidades para o paradigma de progamação funcional
 function retornar () {
  function bomDia(){
     return "bom dia!!!!!";
