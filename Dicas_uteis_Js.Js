@@ -63,4 +63,11 @@
 
 // qualquer parÂmetro a mais é ignorado!
 //podemos passar mais ou menos parametros do que foi exigido
+//Em javaScript conseguimos criar uma função dentro de outra
+//função retornando função isso abre possibilidades para o paradigma de progamação funcional
 
+//currying é o processo de transformar uma função que espera vários argumetntos
+// em uma função que espera um unico argumento e retorna outra função curried
+// passar argumentos de forma "parcelada"/parcial
+//essa funcionalidade é usada para funcoes mais complexas terem partes dos parametros já resolvidos
+//exemplo operações com aplicação de imposto
