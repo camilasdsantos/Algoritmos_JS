@@ -16,5 +16,5 @@ const numeros2 = numeros.concat(7,8,9);
 console.log(numeros2);
 
 console.log(numeros.indexOf(4));
-console.log(numeros.indexOf(4, 4));
+console.log(numeros.indexOf(4, 4));//-1 significa que ele nãoa chou nenhum outro 4 a partir do indice 4
 
